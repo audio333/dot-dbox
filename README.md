@@ -4,12 +4,13 @@
 
 ### PACMAN
 * `$ sudo pacman -S zathura pcmanfm feh sxiv mousepad mpv pavucontrol`
-* `$ sudo pacman -S cmus pulsemixer newsboat`
-* `$ sudo pacman -S git lf tmux vim fasd tldr zip unzip`
-* `$ sudo pacman -S rsync speedtest-cli neofetch htop tree trash-cli`
+* `$ sudo pacman -S cmus pulsemixer newsboat aria2`
+* `$ sudo pacman -S git lf tmux vim fasd tree zip unzip trash-cli rsync`
+* `$ sudo pacman -S tldr speedtest-cli ncdu neofetch htop bpytop`
 * `$ sudo pacman -S picom cmatrix cowsay figlet sl`
-* `$ sudo pacman -S kdenlive obs-studio`
+* `$ sudo pacman -S kdenlive obs-studio gimp`
 
 ### AUR
 * `$ paru -S brave-bin sublime-text-4 visual-studio-code-bin insomnia`
-* `$ paru -S pfetch ani-cli lobster mov-cli-git manga-cli`
+* `$ paru -S ani-cli lobster mov-cli-git manga-cli`
+* `$ paru -S pfetch cointop`
