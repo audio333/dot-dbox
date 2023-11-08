@@ -14,3 +14,4 @@
 * `$ paru -S brave-bin sublime-text-4 visual-studio-code-bin insomnia`
 * `$ paru -S ani-cli lobster mov-cli-git manga-cli`
 * `$ paru -S pfetch cointop`
+* `$ paru -S kjv-git cowfortune`
