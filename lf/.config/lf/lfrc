@@ -3,6 +3,8 @@ set hidden true
 set drawbox true
 set icons true
 set ignorecase true
+set cleaner '~/.config/lf/cleaner'
+set previewer '~/.config/lf/scope'
 
 # Custom Functions
 cmd open ${{
@@ -70,7 +72,6 @@ map n
 map "'"
 map '"'
 map d
-map c
 map e
 map f
 
@@ -97,5 +98,7 @@ map mf mkfile
 map md mkdir
 map r rename
 map R reload
-map C clear
 map U unselect
+
+# Source Bookmarks
+source "~/.config/lf/shortcutrc"
