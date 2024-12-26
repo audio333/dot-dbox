@@ -8,6 +8,7 @@
 * `sxhkd autokey-gtk xcape`
 * `rofi dunst libnotify-bin nsxiv zathura pcmanfm mousepad firefox-esr qutebrowser`
 * `mpv mpv-mpris playerctl socat cmus`
+* `mpd wildmidi timidity mpdris2 mpc ncmpcpp`
 * `pipewire wireplumber pipewire-media-session- pipewire-jack` 
 * `pulsemixer pavucontrol pulseaudio-module-bluetooth`
 * `stow git tig lf vim vim-gtk3 fasd tree rsync zip unzip trash-cli`
